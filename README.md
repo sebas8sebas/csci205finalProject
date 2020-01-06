@@ -197,13 +197,6 @@ instructions on the website to generate a .jar file. You must use all the .jar f
 </p>
 <br>
 
-<h5>How to Run the .jar File<h5>
-<p>
-Within the /dist directory, there should be a file called tanks2d.jar.  This is the .jar file that is needed in order to 
-run the entire application. This jar file was compiled using java sdk 12, so if you are going to run it, make sure you are using 
-java jre 12 or newer. If you wish to run the original code, you can simply go into the /src directory and run the 
-Main class. 
-</p>
 
 <h5>How to Run the project in intelliJ<h5>
 <p>
